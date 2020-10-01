@@ -15,7 +15,7 @@
   "author": "Michael Jolley <mike@sparcapp.io>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.1",
+    "@actions/core": "^1.2.6",
     "@actions/github": "^2.0.1",
     "@actions/glob": "^0.1.0",
     "@actions/io": "^1.0.2",
